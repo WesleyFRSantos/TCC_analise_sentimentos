@@ -22,7 +22,7 @@ Esta base é o arquivo tweets_treino.csv
 Encontrei essa base de dados no Kaggle: https://www.kaggle.com/datasets/debkings/tweetpt
 
 ## 4) Dados de teste
-A pasta compactada dados_teste possui os resultados das coletas utilizando palavras-chaves que tinham a ver com o negócio.
+A pasta compactada dados_teste.zip possui os resultados das coletas, que foram feitas utilizando palavras-chaves relacionadas aos interesses da empresa que está lançando o produto pet.
 
 ## 5) Modelo
 O notebook analise_sentimento.ipynb realiza o tratamento dos dados, treinamento do algoritmo e classifcação dos dados de teste.
