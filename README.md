@@ -1,2 +1,11 @@
 # TCC_analise_sentimentos
 Aplicação de Machine Learning para análise de sentimentos, utilizando dados do Twitter, a fim de validar a concepção de um novo negócio.
+
+## Obtendo as credenciais para acessar a API do Twitter.
+Para a realização deste projeto, foi necessário fazer um upgrade na minha conta do Twitter para uma conta de desenvolvedor.
+
+Para fazer isso, eu segui os passos deste vídeo do Programação Dinâmica:
+https://www.youtube.com/watch?v=RssGfmtyn4A&t=920s (está um pouco antigo, mas acredito que não terá grandes diferenças)
+
+Link para fazer o upgrade na sua conta:
+https://developer.twitter.com/en
