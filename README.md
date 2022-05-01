@@ -10,6 +10,8 @@ https://www.youtube.com/watch?v=RssGfmtyn4A&t=920s (está um pouco antigo, mas a
 Link para fazer o upgrade na sua conta:
 https://developer.twitter.com/en
 
+Após responder algumas perguntas sobre o motivo de eu estar interessado em utilizar a API, o acesso foi liberado no dia seguinte à aplicação.
+
 ## 2) Coleta de dados
 Após ter as credenciais para acessar a API do Twitter, deixei elas salvas em um arquivo txt.
 O notebook coleta_twitter.ipynb tem os scripts em Python que fazem a conexão com a API do Twitter e coleta os dados desejados.
