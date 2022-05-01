@@ -16,5 +16,6 @@ O notebook coleta_twitter.ipynb tem os scripts em Python que fazem a conexão co
 
 ## 3) Dados de treino
 Esta etapa foi crucial para o projeto. Para treinar meu modelo, eu utilizei uma base de dados de tweets em pt-br, já classificados como Positivos, Neutros ou Negativos.
+Esta base é o arquivo csv tweets_treino.csv
 Encontrei essa base de dados no Kaggle: https://www.kaggle.com/datasets/debkings/tweetpt
 
