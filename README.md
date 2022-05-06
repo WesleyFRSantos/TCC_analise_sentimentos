@@ -1,5 +1,5 @@
 # Análise de Sentimentos - Twitter
-Aplicação de Machine Learning para análise de sentimentos, utilizando dados do Twitter, a fim de validar a concepção de um novo negócio (produto pet).
+Projeto de Machine Learning para análise de sentimentos, utilizando dados do Twitter, a fim de validar a concepção de um novo negócio (produto pet).
 
 ## 1) Obtendo as credenciais para acessar a API do Twitter
 Para a realização deste projeto, foi necessário fazer um upgrade na minha conta do Twitter para uma conta de desenvolvedor.
